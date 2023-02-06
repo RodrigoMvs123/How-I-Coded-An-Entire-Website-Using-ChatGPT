@@ -1,6 +1,7 @@
 # How-I-Coded-An-Entire-Website-Using-ChatGPT
 
-How I Coded An Entire Website Using ChatGPT
+https://raw.githubusercontent.com/RodrigoMvs123/How-I-Coded-An-Entire-Website-Using-ChatGPT/main/README.md
+
 
 
 https://www.youtube.com/watch?v=ng438SIXyW4
