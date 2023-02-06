@@ -7,7 +7,6 @@ https://raw.githubusercontent.com/RodrigoMvs123/How-I-Coded-An-Entire-Website-Us
 
 https://github.com/RodrigoMvs123/How-I-Coded-An-Entire-Website-Using-ChatGPT/blame/main/README.md
 
-https://www.youtube.com/watch?v=ng438SIXyW4
 
 https://www.hostinger.com.br/
 https://openai.com/
